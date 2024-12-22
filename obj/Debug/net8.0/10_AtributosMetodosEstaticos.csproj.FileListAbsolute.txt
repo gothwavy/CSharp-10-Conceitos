@@ -1,0 +1,14 @@
+E:\CSharp\POO\10_AtributosMetodosEstaticos\bin\Debug\net8.0\10_AtributosMetodosEstaticos.exe
+E:\CSharp\POO\10_AtributosMetodosEstaticos\bin\Debug\net8.0\10_AtributosMetodosEstaticos.deps.json
+E:\CSharp\POO\10_AtributosMetodosEstaticos\bin\Debug\net8.0\10_AtributosMetodosEstaticos.runtimeconfig.json
+E:\CSharp\POO\10_AtributosMetodosEstaticos\bin\Debug\net8.0\10_AtributosMetodosEstaticos.dll
+E:\CSharp\POO\10_AtributosMetodosEstaticos\bin\Debug\net8.0\10_AtributosMetodosEstaticos.pdb
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.AssemblyInfoInputs.cache
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.AssemblyInfo.cs
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.csproj.CoreCompileInputs.cache
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.dll
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\refint\10_AtributosMetodosEstaticos.dll
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.pdb
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\10_AtributosMetodosEstaticos.genruntimeconfig.cache
+E:\CSharp\POO\10_AtributosMetodosEstaticos\obj\Debug\net8.0\ref\10_AtributosMetodosEstaticos.dll
